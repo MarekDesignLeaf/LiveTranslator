@@ -1,0 +1,2 @@
+# LiveTranslator
+translate dialogs
